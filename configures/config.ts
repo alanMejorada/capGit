@@ -1,4 +1,4 @@
 export const config = {
     dbURL:"",
-    port:4000
+    db_port:4200
 }
